@@ -17,7 +17,7 @@ You can experiments by running
 ```
 python run.py
 ```
-You can find the HASeparator layer in the customLayer.py file. The parameters and the example is executed using the CIFAR-10 Dataset. You can easily change the parameters in the file params.py
+You can find the HASeparator layer in the [customLayer.py](https://github.com/nsantavas/HASeparator-Hyperplane-Assisted-Softmax/blob/develop/customLayer.py) file. The parameters and the example is executed using the CIFAR-10 Dataset. You can easily change the parameters in the file [params.py](https://github.com/nsantavas/HASeparator-Hyperplane-Assisted-Softmax/blob/develop/params.py)
 </p>
 
 
